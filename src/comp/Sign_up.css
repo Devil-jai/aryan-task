@@ -1,0 +1,9 @@
+.Sign_up{
+    background-image: url('./img/Signup.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 500px;
+
+}
